@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An alternative to caffeinate on Leopard"
+title:  "An Alternative to caffeinate on Leopard"
 ---
 ![pmset noidle running]({{site.assets}}/pmset.jpg)
 
