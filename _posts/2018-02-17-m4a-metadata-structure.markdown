@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “The Structure of the M4A format”
+title: The Structure of the M4A format
 ---
 ![An M4A file being viewed in HexFiend]({{site.assets}}/m4a-file.png)
 
